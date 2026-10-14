@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "42845f3e7a00af384ddec1af",
+  "owner": "gmnmcmrqt",
+  "repo": "page-4b3602ffd884a990342c5306",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b3602ffd884a990342c5306",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5fbec73ecd9178eb5f3fa4fdf2f6fa9effd575f95fd313a0db9eb3fa8fe5ecfb",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id提供专业的高速VPN加速器服务，X机场高速节点池，基础版¥15/月起，旗舰版支持300GB流量与IPLC游戏加速，团队版企业定制。下载客户端即刻体验高速上网。",
+          "AI_DESCRIPTION": "小火箭id提供专业的高速VPN加速器服务，X机场高速节点池，基础版¥15/月起，旗舰版支持300GB流量与IPLC游戏加速，团队版企业定制。下载客户端即刻体验高速上网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n      :root {\n        --blue: #0A2540;\n        --cyan: #00C4B4;\n      }\n      * { box-sizing: border-box; }\n      body {\n        margin: 0;\n        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n        background: linear-gradient(180deg, var(--blue) 0%, #001122 100%);\n        color: #fff;\n        line-height: 1.7;\n      }\n      .container {\n        max-width: 1200px;\n        margin: 0 auto;\n        padding: 20px;\n      }\n      header {\n        text-align: center;\n        padding: 40px 0 20px;\n      }\n      h1 {\n        font-size: 2.8rem;\n        color: var(--cyan);\n        margin-bottom: 10px;\n      }\n      .tagline {\n        font-size: 1.3rem;\n        opacity: 0.9;\n      }\n      main {\n        max-width: 1100px;\n        margin: 0 auto;\n      }\n      section {\n        margin-bottom: 60px;\n      }\n      h2 {\n        font-size: 2rem;\n        color: var(--cyan);\n        border-bottom: 2px solid var(--cyan);\n        padding-bottom: 10px;\n        margin-bottom: 30px;\n      }\n      .plans {\n        display: flex;\n        flex-wrap: wrap;\n        gap: 20px;\n        justify-content: center;\n      }\n      .plan-card {\n        flex: 1;\n        min-width: 300px;\n        background: #112244;\n        border-radius: 12px;\n        padding: 30px 20px;\n        text-align: center;\n        transition: transform 0.3s;\n      }\n      .plan-card:hover {\n        transform: translateY(-5px);\n      }\n      .plan-card.featured {\n        border: 3px solid var(--cyan);\n        background: #0A2540;\n      }\n      .plan-card h3 {\n        font-size: 1.6rem;\n        margin-bottom: 10px;\n      }\n      .price {\n        font-size: 2rem;\n        color: var(--cyan);\n        margin: 10px 0;\n      }\n      .annual {\n        font-size: 1.1rem;\n        color: #aaa;\n      }\n      .features {\n        text-align: left;\n        margin: 20px 0;\n        padding-left: 20px;\n      }\n      .features li {\n        margin-bottom: 8px;\n        list-style: none;\n      }\n      .features li:before {\n        content: \"✓\";\n        color: var(--cyan);\n        margin-right: 8px;\n      }\n      .steps {\n        display: flex;\n        flex-direction: column;\n        gap: 30px;\n        counter-reset: step-counter;\n      }\n      .step {\n        position: relative;\n        padding-left: 60px;\n        counter-increment: step-counter;\n      }\n      .step:before {\n        content: counter(step-counter);\n        position: absolute;\n        left: 0;\n        top: 0;\n        width: 40px;\n        height: 40px;\n        background: var(--cyan);\n        color: var(--blue);\n        border-radius: 50%;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 1.2rem;\n      }\n      .faq {\n        background: #112244;\n        padding: 30px;\n        border-radius: 12px;\n      }\n      details {\n        margin-bottom: 20px;\n        background: #0A2540;\n        border-radius: 8px;\n        overflow: hidden;\n      }\n      summary {\n        padding: 20px;\n        font-weight: bold;\n        cursor: pointer;\n        list-style: none;\n      }\n      summary::-webkit-details-marker {\n        display: none;\n      }\n      .footer {\n        background: #001122;\n        padding: 40px 0;\n        text-align: center;\n        font-size: 0.9rem;\n      }\n      .footer a {\n        color: var(--cyan);\n        text-decoration: none;\n        margin: 0 10px;\n      }\n      @media (max-width: 768px) {\n        h1 { font-size: 2.2rem; }\n        .plans { flex-direction: column; }\n        .plan-card { flex: none; width: 100%; }\n      }\n    </style>\n  \n  \n    <div class=\"container\">\n      <header>\n        <h1>小火箭id</h1>\n        <p class=\"tagline\">X机场高速VPN加速器 | 客户端下载</p>\n      </header>\n      <main>\n        <section>\n          <h2>品牌简介</h2>\n          <p>小火箭id 是一款专业的高速VPN加速器，基于X机场技术，提供稳定、低延迟的网络节点池。无论日常浏览、在线游戏还是家庭多人使用，都能获得极致体验。</p>\n        </section>\n        <section>\n          <h2>产品套餐</h2>\n          <div class=\"plans\">\n            <div class=\"plan-card\">\n              <h3>基础版</h3>\n              <div class=\"price\">¥15/月</div>\n              <div class=\"annual\">按年付仅需 ¥150/年</div>\n              <ul class=\"features\">\n                <li>每月 100GB 极速流量</li>\n                <li>支持 3 台设备同时在线</li>\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n              </ul>\n            </div>\n            <div class=\"plan-card featured\">\n              <h3>旗舰版</h3>\n              <div class=\"price\">¥35/月</div>\n              <div class=\"annual\">按年付仅需 ¥350/年</div>\n              <ul class=\"features\">\n                <li>每月 300GB 极速流量</li>\n                <li>支持 5 台设备同时在线</li>\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n              </ul>\n            </div>\n            <div class=\"plan-card\">\n              <h3>团队版</h3>\n              <div class=\"price\">¥85/月</div>\n              <div class=\"annual\">按年付仅需 ¥850/年</div>\n              <ul class=\"features\">\n                <li>每月 1000GB 极速流量</li>\n                <li>支持 20 台设备同时在线</li>\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n              </ul>\n            </div>\n          </div>\n        </section>\n        <section>\n          <h2>使用指南</h2>\n          <div class=\"steps\">\n            <div class=\"step\">\n              <h3>第一步：访问官网下载</h3>\n              <p>前往小火箭id官网，下载适用于 Windows、Mac、iOS、Android 的客户端。</p>\n            </div>\n            <div class=\"step\">\n              <h3>第二步：安装配置</h3>\n              <p>安装后，导入订阅链接，连接到推荐节点。</p>\n            </div>\n            <div class=\"step\">\n              <h3>第三步：加速上网</h3>\n              <p>选择节点即可享受高速网络，自动解锁流媒体。</p>\n            </div>\n            <div class=\"step\">\n              <h3>第四步：团队管理</h3>\n              <p>团队版支持企业路由和专属客服。</p>\n            </div>\n          </div>\n        </section>\n        <section>\n          <h2>常见使用场景</h2>\n          <ul>\n            <li>日常上网冲浪</li>\n            <li>在线视频观看</li>\n            <li>在线游戏加速</li>\n            <li>家庭多人共享</li>\n            <li>企业网络优化</li>\n          </ul>\n        </section>\n        <section class=\"faq\">\n          <h2>常见问题</h2>\n          <details>\n            <summary>1. 如何获取小火箭id客户端下载？</summary>\n            <p>访问官网首页，点击下载按钮，选择您的操作系统即可下载最新版客户端。</p>\n          </details>\n          <details>\n            <summary>2. 流量是如何计算的？</summary>\n            <p>每月总流量基于实际使用，超出部分可能需充值或升级套餐。</p>\n          </details>\n          <details>\n            <summary>3. 支持哪些设备？</summary>\n            <p>支持 Windows、Mac、iOS、Android、路由器等多种设备，基础版支持3台同时在线。</p>\n          </details>\n          <details>\n            <summary>4. 如何解锁Netflix和YouTube？</summary>\n            <p>旗舰版及以上套餐提供全节点原生解锁，普通节点可能需手动切换。</p>\n          </details>\n          <details>\n            <summary>5. 售后服务如何？</summary>\n            <p>7x24在线支持，旗舰版和团队版提供优先响应。</p>\n          </details>\n          <details>\n            <summary>6. 节点质量和速度如何？</summary>\n            <p>所有节点均经过优化，提供低延迟、高速线路，游戏模式下有专属加速。</p>\n          </details>\n        </section>\n      <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n      <footer class=\"footer\">\n        <p>© 2024 小火箭id X机场 所有权利保留</p>\n        <p>\n          <a href=\"#downloads\">客户端下载</a> |\n          <a href=\"#plans\">套餐详情</a> |\n          <a href=\"#faq\">常见问题</a>\n        </p>\n        <p>官方邮箱：support@xiaohuojianid.com</p>\n      </footer>\n    </div>\n  \n",
+          "hash": "48883074cdcd22510522575efcfb8319983e9789be30ef0d9dec6aa16ccbcb13",
+          "seo": {
+            "title": "小火箭id - 高速VPN加速器 客户端下载",
+            "keywords": "小火箭id, X机场, VPN, 加速器, 客户端下载, 高速节点",
+            "description": "小火箭id提供专业的高速VPN加速器服务，X机场高速节点池，基础版¥15/月起，旗舰版支持300GB流量与IPLC游戏加速，团队版企业定制。下载客户端即刻体验高速上网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yyjthzp2.cn",
+    "host": "p-95162cc90a.yyjthzp2.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a889ad4a2efdd6cfba64699f9d986eebc999efedf8beb4645d74277fcec79216",
+    "sitemap.xml": "7e445e2422c8eb92ac6f9595b0fc8a922e56664497b7107bde3da02fe0a35d39",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "786872603e9f4d9aff704e4ef6e094aa44eac45022714a67e6cb05c377952420",
+    "robots.txt": "7f02f952b5b8d9d380ea3ef799b821df631550beada556969f87976db1ae5159",
+    "415bab988dc9ca8ff280a344571bf0b7.txt": "bf9e1da845443a80e06425591a444ab05dc050971dda55d15d8ced46adcded3a"
+  },
+  "revision": "e58ce3d8f7911536102772eb867f9efa63ef61a6160c5cfdbe8d0babdb2f8524"
+}
